@@ -1,1 +1,1 @@
-why no ssh file
+echo removes and add??
